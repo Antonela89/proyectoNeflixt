@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    background-color: #030100;
+}
+
+.navItemContainer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}

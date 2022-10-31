@@ -1,0 +1,17 @@
+.contenedor {
+    position: relative;
+    width: 130px;
+    top: 190px;
+    left: 1215px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clasificacion {
+    width: 65px;
+    color: white;
+    padding: 15px;
+    border-left: solid 4px white;
+    background-color: #45454590;
+}
