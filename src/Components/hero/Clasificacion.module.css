@@ -10,6 +10,7 @@
 
 .clasificacion {
     width: 65px;
+    user-select: none;
     color: white;
     padding: 15px;
     border-left: solid 4px white;
