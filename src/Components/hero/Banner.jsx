@@ -25,7 +25,7 @@ const Banner = () => {
                 <Button icono={faPlay} color='black' background="#FFFFFF60" contenido='Reproducir'/>
                 <Button icono={faCircleInfo} color='white' background="#45454590" contenido ='Más información'/>
             </div>
-            
+        
             <Clasificacion edad='13' setIsMuted={setIsMuted} isMuted={isMuted}/>
         </div>
     );

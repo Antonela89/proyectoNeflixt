@@ -13,4 +13,4 @@ const Button = ({icono, color, background, contenido}) => {
     )
 }
 
-export default Button
+export default Button;
